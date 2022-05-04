@@ -1,0 +1,1465 @@
+[
+  {
+    "country": "Afeganistao",
+    "languages": [
+      "pasto",
+      "persa"
+    ]
+  },
+  {
+    "country": "Africa do sul",
+    "languages": [
+      "africaner",
+      "ingles",
+      "ndebele",
+      "xhosa",
+      "zulu",
+      "soto setentrional",
+      "soto meridional",
+      "tsuana",
+      "suazi",
+      "venda",
+      "tsonga"
+    ]
+  },
+  {
+    "country": "Albania",
+    "languages": [
+      "albanes"
+    ]
+  },
+  {
+    "country": "Alemanha",
+    "languages": [
+      "alemao"
+    ]
+  },
+  {
+    "country": "Andorra",
+    "languages": [
+      "catalao"
+    ]
+  },
+  {
+    "country": "Angola",
+    "languages": [
+      "portugues"
+    ]
+  },
+  {
+    "country": "Anguilla",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Antigua e barbuda",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Antilhas holandesas",
+    "languages": [
+      "neerlandes"
+    ]
+  },
+  {
+    "country": "Arabia saudita",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Argelia",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Armenia",
+    "languages": [
+      "armenio"
+    ]
+  },
+  {
+    "country": "Aruba",
+    "languages": [
+      "neerlandes"
+    ]
+  },
+  {
+    "country": "Australia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Austria",
+    "languages": [
+      "alemao",
+      "esloveno",
+      "croata",
+      "hungaro"
+    ]
+  },
+  {
+    "country": "Azerbaijao",
+    "languages": [
+      "azeri"
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Bangladexe",
+    "languages": [
+      "bengali"
+    ]
+  },
+  {
+    "country": "Barbados",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Barem",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Belgica",
+    "languages": [
+      "neerlandes",
+      "frances",
+      "alemao"
+    ]
+  },
+  {
+    "country": "Belize",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Benim",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Bermudas",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Bielorrussia",
+    "languages": [
+      "russo",
+      "bielorrusso"
+    ]
+  },
+  {
+    "country": "Birmania",
+    "languages": [
+      "birmanes"
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "languages": [
+      "espanhol",
+      "quichua",
+      "aimara"
+    ]
+  },
+  {
+    "country": "Bosnia e herzegovina",
+    "languages": [
+      "servio",
+      "croata"
+    ]
+  },
+  {
+    "country": "Botsuana",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Brasil",
+    "languages": [
+      "portugues"
+    ]
+  },
+  {
+    "country": "Brunei",
+    "languages": [
+      "malaio"
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "languages": [
+      "bulgaro"
+    ]
+  },
+  {
+    "country": "Burquina fasso",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Burundi",
+    "languages": [
+      "frances",
+      "quirundi"
+    ]
+  },
+  {
+    "country": "Butao",
+    "languages": [
+      "butanes"
+    ]
+  },
+  {
+    "country": "Cabo verde",
+    "languages": [
+      "portugues"
+    ]
+  },
+  {
+    "country": "Camaroes",
+    "languages": [
+      "frances",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Camboja",
+    "languages": [
+      "cambojano"
+    ]
+  },
+  {
+    "country": "Canada",
+    "languages": [
+      "ingles",
+      "frances"
+    ]
+  },
+  {
+    "country": "Catar",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Cazaquistao",
+    "languages": [
+      "cazaque"
+    ]
+  },
+  {
+    "country": "Chade",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Chequia",
+    "languages": [
+      "checo"
+    ]
+  },
+  {
+    "country": "Chile",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "China",
+    "languages": [
+      "chines mandarim"
+    ]
+  },
+  {
+    "country": "Chipre",
+    "languages": [
+      "grego",
+      "turco"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Comores",
+    "languages": [
+      "arabe",
+      "frances"
+    ]
+  },
+  {
+    "country": "Congo",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Coreia do norte",
+    "languages": [
+      "coreano"
+    ]
+  },
+  {
+    "country": "Coreia do sul",
+    "languages": [
+      "coreano"
+    ]
+  },
+  {
+    "country": "Costa do marfim",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Costa rica",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Croacia",
+    "languages": [
+      "croata"
+    ]
+  },
+  {
+    "country": "Cuba",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Dinamarca",
+    "languages": [
+      "dinamarques",
+      "feroes",
+      "gronelandes"
+    ]
+  },
+  {
+    "country": "Dominica",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Egito",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "El salvador",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Emirados arabes unidos",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Equador",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Eritreia",
+    "languages": [
+      "tigrinia",
+      "arabe"
+    ]
+  },
+  {
+    "country": "Eslovaquia",
+    "languages": [
+      "eslovaco"
+    ]
+  },
+  {
+    "country": "Eslovenia",
+    "languages": [
+      "esloveno"
+    ]
+  },
+  {
+    "country": "Espanha",
+    "languages": [
+      "espanhol",
+      "galego",
+      "basco",
+      "catalao",
+      "occitano"
+    ]
+  },
+  {
+    "country": "Estados unidos",
+    "languages": [
+      "ingles",
+      "caroliniano",
+      "chamorro",
+      "havaiano",
+      "samoano",
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Estonia",
+    "languages": [
+      "estoniano"
+    ]
+  },
+  {
+    "country": "Etiopia",
+    "languages": [
+      "amarico"
+    ]
+  },
+  {
+    "country": "Fiji",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Filipinas",
+    "languages": [
+      "filipino",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Finlandia",
+    "languages": [
+      "finlandes",
+      "sueco"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "languages": [
+      "chines mandarim"
+    ]
+  },
+  {
+    "country": "Franca",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Gabao",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Gambia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Gana",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Georgia",
+    "languages": [
+      "georgiano"
+    ]
+  },
+  {
+    "country": "Gibraltar",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Granada",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Grecia",
+    "languages": [
+      "grego"
+    ]
+  },
+  {
+    "country": "Guam",
+    "languages": [
+      "ingles",
+      "chamorro"
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Guernsey",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Guiana",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Guiana francesa",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Guine",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Guine-bissau",
+    "languages": [
+      "portugues"
+    ]
+  },
+  {
+    "country": "Guine equatorial",
+    "languages": [
+      "espanhol",
+      "frances",
+      "portugues"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "languages": [
+      "creole",
+      "frances"
+    ]
+  },
+  {
+    "country": "Honduras",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Hong kong",
+    "languages": [
+      "chines cantones",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Hungria",
+    "languages": [
+      "hungaro"
+    ]
+  },
+  {
+    "country": "Iemen",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Ilha de natal",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas caimao",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas cook",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas malvinas",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas feroe",
+    "languages": [
+      "feroes"
+    ]
+  },
+  {
+    "country": "Ilhas marianas do norte",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas marshall",
+    "languages": [
+      "ingles",
+      "marshales"
+    ]
+  },
+  {
+    "country": "Ilhas pitcairn",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas salomao",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas virgens americanas",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilhas virgens britanicas",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "India",
+    "languages": [
+      "hindi",
+      "ingles",
+      "telugo",
+      "bengali",
+      "marata",
+      "tamil",
+      "urdu"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "languages": [
+      "indonesio"
+    ]
+  },
+  {
+    "country": "Ira",
+    "languages": [
+      "persa"
+    ]
+  },
+  {
+    "country": "Iraque",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Irlanda",
+    "languages": [
+      "ingles",
+      "irlandes"
+    ]
+  },
+  {
+    "country": "Islandia",
+    "languages": [
+      "islandes"
+    ]
+  },
+  {
+    "country": "Israel",
+    "languages": [
+      "hebraico"
+    ]
+  },
+  {
+    "country": "Italia",
+    "languages": [
+      "italiano",
+      "frances",
+      "alemao",
+      "sardo"
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Japao",
+    "languages": [
+      "japones"
+    ]
+  },
+  {
+    "country": "Jersey",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "languages": [
+      "arabe",
+      "frances"
+    ]
+  },
+  {
+    "country": "Jordania",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Laos",
+    "languages": [
+      "laociano"
+    ]
+  },
+  {
+    "country": "Lesoto",
+    "languages": [
+      "ingles",
+      "sesoto"
+    ]
+  },
+  {
+    "country": "Letonia",
+    "languages": [
+      "letao"
+    ]
+  },
+  {
+    "country": "Libano",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Liberia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Libia",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "languages": [
+      "alemao"
+    ]
+  },
+  {
+    "country": "Lituania",
+    "languages": [
+      "lituano"
+    ]
+  },
+  {
+    "country": "Luxemburgo",
+    "languages": [
+      "luxemburgues",
+      "frances",
+      "alemao"
+    ]
+  },
+  {
+    "country": "Macau",
+    "languages": [
+      "chines cantones",
+      "portugues"
+    ]
+  },
+  {
+    "country": "Macedonia do norte",
+    "languages": [
+      "macedonio"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "languages": [
+      "malgaxe",
+      "frances"
+    ]
+  },
+  {
+    "country": "Malasia",
+    "languages": [
+      "malaio"
+    ]
+  },
+  {
+    "country": "Malaui",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Maldivas",
+    "languages": [
+      "divehi"
+    ]
+  },
+  {
+    "country": "Mali",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Malta",
+    "languages": [
+      "maltes",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ilha de man",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Marrocos",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Mauricia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Maiote",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Micronesia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Mocambique",
+    "languages": [
+      "portugues"
+    ]
+  },
+  {
+    "country": "Moldavia",
+    "languages": [
+      "romeno"
+    ]
+  },
+  {
+    "country": "Monaco",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "languages": [
+      "mongol"
+    ]
+  },
+  {
+    "country": "Monserrate",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "languages": [
+      "montenegrino"
+    ]
+  },
+  {
+    "country": "Namibia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Nauru",
+    "languages": [
+      "nauruano"
+    ]
+  },
+  {
+    "country": "Nepal",
+    "languages": [
+      "nepales"
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Niger",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Niue",
+    "languages": [
+      "ingles",
+      "niueano"
+    ]
+  },
+  {
+    "country": "Noruega",
+    "languages": [
+      "noruegues"
+    ]
+  },
+  {
+    "country": "Norfolque",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Nova caledonia",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Nova zelandia",
+    "languages": [
+      "ingles",
+      "maori"
+    ]
+  },
+  {
+    "country": "Oma",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Paises baixos",
+    "languages": [
+      "neerlandes"
+    ]
+  },
+  {
+    "country": "Palau",
+    "languages": [
+      "palauense"
+    ]
+  },
+  {
+    "country": "Panama",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Papua nova guine",
+    "languages": [
+      "tok pisin",
+      "hiri motu",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Paquistao",
+    "languages": [
+      "urdu"
+    ]
+  },
+  {
+    "country": "Paraguai",
+    "languages": [
+      "espanhol",
+      "guarani"
+    ]
+  },
+  {
+    "country": "Peru",
+    "languages": [
+      "espanhol",
+      "quichua"
+    ]
+  },
+  {
+    "country": "Polinesia francesa",
+    "languages": [
+      "polinesio",
+      "frances"
+    ]
+  },
+  {
+    "country": "Polonia",
+    "languages": [
+      "polaco"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "languages": [
+      "minderico",
+      "mirandes",
+      "portugues"
+    ]
+  },
+  {
+    "country": "Quiribati",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Quenia",
+    "languages": [
+      "ingles",
+      "suaili"
+    ]
+  },
+  {
+    "country": "Quirguistao",
+    "languages": [
+      "quirguiz",
+      "russo"
+    ]
+  },
+  {
+    "country": "Reino unido",
+    "languages": [
+      "ingles",
+      "gales"
+    ]
+  },
+  {
+    "country": "Republica centro-africana",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Republica democratica do congo",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Republica dominicana",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Reuniao",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Romenia",
+    "languages": [
+      "romeno"
+    ]
+  },
+  {
+    "country": "Ruanda",
+    "languages": [
+      "quiniaruanda",
+      "frances",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Russia",
+    "languages": [
+      "russo"
+    ]
+  },
+  {
+    "country": "Sao pedro e miquelao",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Samoa",
+    "languages": [
+      "samoano",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Samoa americana",
+    "languages": [
+      "samoano",
+      "ingles"
+    ]
+  },
+  {
+    "country": "San marino",
+    "languages": [
+      "italiano"
+    ]
+  },
+  {
+    "country": "Santa helena",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Santa lucia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Sao cristovao e neves",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Sao tome e principe",
+    "languages": [
+      "portugues"
+    ]
+  },
+  {
+    "country": "Sao vicente e granadinas",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Serra leoa",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Servia",
+    "languages": [
+      "servio"
+    ]
+  },
+  {
+    "country": "Seicheles",
+    "languages": [
+      "ingles",
+      "frances",
+      "seichelense"
+    ]
+  },
+  {
+    "country": "Sri lanka",
+    "languages": [
+      "cingales",
+      "tamil"
+    ]
+  },
+  {
+    "country": "Singapura",
+    "languages": [
+      "malaio",
+      "chines mandarim",
+      "tamil",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Siria",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Somalia",
+    "languages": [
+      "somali",
+      "arabe"
+    ]
+  },
+  {
+    "country": "Suazilandia",
+    "languages": [
+      "suazi",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Sudao",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Sudao do sul",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Suecia",
+    "languages": [
+      "sueco"
+    ]
+  },
+  {
+    "country": "Suica",
+    "languages": [
+      "alemao",
+      "frances",
+      "italiano",
+      "romanche"
+    ]
+  },
+  {
+    "country": "Suriname",
+    "languages": [
+      "neerlandes"
+    ]
+  },
+  {
+    "country": "Tailandia",
+    "languages": [
+      "tailandes"
+    ]
+  },
+  {
+    "country": "Tajiquistao",
+    "languages": [
+      "tajique"
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "languages": [
+      "suaili"
+    ]
+  },
+  {
+    "country": "Timor-leste",
+    "languages": [
+      "tetum",
+      "portugues"
+    ]
+  },
+  {
+    "country": "Togo",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Toquelau",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Tonga",
+    "languages": [
+      "tonga"
+    ]
+  },
+  {
+    "country": "Trindade e tobago",
+    "languages": [
+      "ingles",
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "languages": [
+      "arabe"
+    ]
+  },
+  {
+    "country": "Turcomenistao",
+    "languages": [
+      "turcomeno"
+    ]
+  },
+  {
+    "country": "Turquia",
+    "languages": [
+      "turco"
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "languages": [
+      "tuvaluano",
+      "ingles"
+    ]
+  },
+  {
+    "country": "Ucrania",
+    "languages": [
+      "ucraniano"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Uruguai",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Uzbequistao",
+    "languages": [
+      "uzbeque"
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "languages": [
+      "bislama",
+      "ingles",
+      "frances"
+    ]
+  },
+  {
+    "country": "Vaticano",
+    "languages": [
+      "italiano",
+      "latim"
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "languages": [
+      "espanhol"
+    ]
+  },
+  {
+    "country": "Vietna",
+    "languages": [
+      "vietnamita"
+    ]
+  },
+  {
+    "country": "Wallis e futuna",
+    "languages": [
+      "frances"
+    ]
+  },
+  {
+    "country": "Zambia",
+    "languages": [
+      "ingles"
+    ]
+  },
+  {
+    "country": "Zimbabue",
+    "languages": [
+      "ingles"
+    ]
+  }
+]
